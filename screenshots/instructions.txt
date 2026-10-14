@@ -1,0 +1,5 @@
+เพิ่มภาพจริงก่อนส่ง:
+00-menu.png: Menu v1 localhost:8080 และ docker ps ก่อนลบ menu-test
+01-menu.png: Menu v2 และลิงก์ดูโปรโมชั่น พร้อมแถบ URL localhost:8080
+02-promo.png: โปรโมชั่นพร้อมรหัสลับ พร้อมแถบ URL localhost:8081
+ไม่มี PNG ในชุดนี้เพราะต้องใช้ภาพหลักฐานจากการรันจริง
